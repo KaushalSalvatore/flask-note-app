@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.flask-note-app-venv
+flask-note-app-venv/
 
 # Spyder project settings
 .spyderproject
