@@ -8,7 +8,7 @@
 - Integrating CI/CD with GitHub Actions
 - Publishing documentation or static sites via GitHub Pages
 
-###### Key GitHub Concepts
+##### Key GitHub Concepts
 
 - **Concept**	Explanation
 - **Repository**	A project folder with version history, hosted on GitHub
@@ -20,7 +20,7 @@
 - **GitHub Pages**	Hosts static websites from a GitHub repo
 - **GitHub Actions**	Built-in CI/CD system to automate workflows like build, test, deploy
 
-###### GITHUB ACTIONS
+##### GITHUB ACTIONS
 
 **GitHub Actions** is GitHub's CI/CD (Continuous Integration/Deployment) feature.
 
@@ -37,7 +37,7 @@
 - **Event**	What triggers the workflow (e.g., push, pull_request)
 - **Action**	A prebuilt piece of functionality (e.g., actions/checkout)
 
-###### Sample Workflow File
+##### Sample Workflow File
 
 ```bash
 # .github/workflows/python-app.yml
@@ -61,7 +61,7 @@ jobs:
       run: pytest
 ```
 
-###### GITHUB & ACTIONS INTERVIEW QUESTIONS
+##### GITHUB & ACTIONS INTERVIEW QUESTIONS
 
 ```bash
 Question: What are GitHub Actions used for?
