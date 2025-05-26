@@ -28,7 +28,7 @@
 - Run tests, build code, or deploy to cloud platforms
 - Create reusable workflows (YAML files)
 
-###### Key Concepts in GitHub Actions:
+##### Key Concepts in GitHub Actions:
 
 - **Workflow**	The automation you define (written in .github/workflows/*.yml)
 - **Job**	A group of steps that run on the same runner
